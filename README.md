@@ -1,11 +1,11 @@
 # my-first-repository
-Today is my first day of coding bootcamp.
+## Today is my first day of coding bootcamp.
 
-git
-Github
-version control
-repository
-commit
-hash
+- git
+- Github
+- Version control
+- Repository
+- Commit
+- Hash
 
-I ope the next three month will be very exciting
+* I hope the next 3 month will be very exciting *
