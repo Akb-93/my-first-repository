@@ -8,4 +8,4 @@
 - Commit
 - Hash
 
-* I hope the next 3 month will be very exciting *
+*I hope the next 3 month will be very exciting*
